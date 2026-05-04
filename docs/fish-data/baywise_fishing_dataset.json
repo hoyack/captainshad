@@ -1,0 +1,1744 @@
+{
+  "metadata": {
+    "region": "Aransas Bay System",
+    "locations": [
+      "Aransas Pass",
+      "Port Aransas",
+      "Rockport",
+      "Corpus Christi Bay",
+      "Redfish Bay"
+    ],
+    "state": "Texas",
+    "water_type": "Saltwater Estuary / Gulf Coast",
+    "dataset_version": "1.0",
+    "last_updated": "2026-05-04",
+    "disclaimer": "Seasonal availability varies year to year based on water temperature, salinity, rainfall, and environmental conditions. Always check current TPWD and federal regulations before fishing."
+  },
+  "species": [
+    {
+      "id": "redfish",
+      "common_name": "Redfish",
+      "alternative_names": [
+        "Red Drum",
+        "Bull Red",
+        "Slot Red"
+      ],
+      "scientific_name": "Sciaenops ocellatus",
+      "category": "inshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "best_months": {
+        "slot_reds": [
+          3,
+          4,
+          5,
+          8,
+          9,
+          10
+        ],
+        "bull_reds": [
+          9,
+          10,
+          11
+        ]
+      },
+      "habitat": [
+        "Grass flats",
+        "Oyster reefs",
+        "Marsh shorelines",
+        "Channel edges",
+        "Jetties",
+        "Surf zone (fall)"
+      ],
+      "notes": "Year-round availability. Bull reds (30-40+ inches) pack the Aransas Pass jetties in fall during the spawn run. Spring offers excellent slot red action on shallow flats.",
+      "regulations": {
+        "bag_limit": "3 per day",
+        "size_limit": "20-28 inch slot; one bull over 28\" allowed with modified TPWD tag",
+        "special_rules": "Bull reds are catch-and-release only unless tagged"
+      }
+    },
+    {
+      "id": "speckled_trout",
+      "common_name": "Speckled Trout",
+      "alternative_names": [
+        "Spotted Seatrout",
+        "Specs",
+        "Trout",
+        "Gator Trout"
+      ],
+      "scientific_name": "Cynoscion nebulosus",
+      "category": "inshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "best_months": {
+        "trophy_trout": [
+          1,
+          2,
+          11,
+          12
+        ],
+        "spawn_bite": [
+          3,
+          4,
+          5
+        ],
+        "fall_feed": [
+          9,
+          10,
+          11
+        ]
+      },
+      "habitat": [
+        "Grass flats",
+        "Shell bars",
+        "Oyster reefs",
+        "Deep channels (winter)",
+        "Seagrass beds",
+        "Sand pockets"
+      ],
+      "notes": "Most popular inshore gamefish. Trophy trout (28+ inches) hold in deep guts in winter. Spawn bite is outstanding on shallow flats at dawn. Fall offers aggressive topwater action.",
+      "regulations": {
+        "bag_limit": "3 per day",
+        "size_limit": "15-20 inch slot; one over 30\" allowed",
+        "special_rules": "Regulation reduced from previous 5 fish / 15-25\" slot"
+      }
+    },
+    {
+      "id": "black_drum",
+      "common_name": "Black Drum",
+      "alternative_names": [
+        "Drum"
+      ],
+      "scientific_name": "Pogonias cromis",
+      "category": "inshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "habitat": [
+        "Jetty pilings",
+        "Channel markers",
+        "Oyster reefs",
+        "Deep holes",
+        "Barnacle-covered structure"
+      ],
+      "notes": "Most consistent in cooler months. Excellent table fare when under 10 lbs. Large drum (30-50+ lbs) are common around the jetties in winter.",
+      "regulations": {
+        "bag_limit": "5 per day",
+        "size_limit": "14-30 inch slot; one over 52\" allowed",
+        "special_rules": null
+      }
+    },
+    {
+      "id": "flounder",
+      "common_name": "Flounder",
+      "alternative_names": [
+        "Southern Flounder",
+        "Flatfish",
+        "Flattie"
+      ],
+      "scientific_name": "Paralichthys lethostigma",
+      "category": "inshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ],
+      "peak_months": [
+        4,
+        5,
+        10
+      ],
+      "best_months": {
+        "spring": [
+          4,
+          5
+        ],
+        "fall_run": [
+          10
+        ]
+      },
+      "habitat": [
+        "Sandy bottoms",
+        "Channel edges",
+        "Passes",
+        "Sandy pockets near grass lines",
+        "Mud flats"
+      ],
+      "notes": "Famous 'fall run' in October-November when flounder migrate to Gulf passes to spawn. Excellent table fare. Gigging is popular in shallow water.",
+      "regulations": {
+        "bag_limit": "5 per day (combined methods)",
+        "size_limit": "14 inch minimum",
+        "special_rules": "Season CLOSED Nov 1 - Dec 14; reopens Dec 15"
+      }
+    },
+    {
+      "id": "sheepshead",
+      "common_name": "Sheepshead",
+      "alternative_names": [
+        "Convict Fish",
+        "Sheepie"
+      ],
+      "scientific_name": "Archosargus probatocephalus",
+      "category": "inshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "habitat": [
+        "Jetty structure",
+        "Dock pilings",
+        "Rock walls",
+        "Barnacle-covered structure",
+        "Oyster reefs"
+      ],
+      "notes": "Peak fishing during cooler months when they spawn around hard structure. Infamous bait stealers \u2014 use small sharp hooks. Excellent eating.",
+      "regulations": {
+        "bag_limit": "5 per day",
+        "size_limit": "15 inch minimum",
+        "special_rules": null
+      }
+    },
+    {
+      "id": "jack_crevalle",
+      "common_name": "Jack Crevalle",
+      "alternative_names": [
+        "Jack",
+        "Yellow Jack",
+        "Crevalle"
+      ],
+      "scientific_name": "Caranx hippos",
+      "category": "inshore",
+      "months_present": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "peak_months": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "habitat": [
+        "Open water",
+        "Channels",
+        "Passes",
+        "Jetties",
+        "Surf zones",
+        "Flats"
+      ],
+      "notes": "Powerful fighting fish that travels in aggressive schools. Will blow up on topwater plugs. Not considered table fare by most anglers.",
+      "regulations": {
+        "bag_limit": "No limit",
+        "size_limit": null,
+        "special_rules": null
+      }
+    },
+    {
+      "id": "ladyfish",
+      "common_name": "Ladyfish",
+      "alternative_names": [
+        "Poor Man's Tarpon",
+        "Ten Pounder"
+      ],
+      "scientific_name": "Elops saurus",
+      "category": "inshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "habitat": [
+        "Bays",
+        "Passes",
+        "Nearshore Gulf",
+        "Flats",
+        "Sand areas"
+      ],
+      "notes": "Acrobatic leapers, great fun on light tackle. Not edible \u2014 mushy flesh. Abundant in warmer months.",
+      "regulations": {
+        "bag_limit": "No limit",
+        "size_limit": null,
+        "special_rules": null
+      }
+    },
+    {
+      "id": "gafftopsail_catfish",
+      "common_name": "Gafftopsail Catfish",
+      "alternative_names": [
+        "Gafftop",
+        "Sail Cat"
+      ],
+      "scientific_name": "Bagre marinus",
+      "category": "inshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "habitat": [
+        "Shallow inshore",
+        "Estuaries",
+        "Bays",
+        "Sandy/muddy bottoms",
+        "Brackish water"
+      ],
+      "notes": "Common bycatch in summer. Surprisingly good eating despite being a catfish. Handle carefully \u2014 venomous dorsal and pectoral spines.",
+      "regulations": {
+        "bag_limit": "No limit",
+        "size_limit": null,
+        "special_rules": null
+      }
+    },
+    {
+      "id": "pompano",
+      "common_name": "Pompano",
+      "alternative_names": [
+        "Florida Pompano"
+      ],
+      "scientific_name": "Trachinotus carolinus",
+      "category": "inshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "best_months": {
+        "surf": [
+          12,
+          1,
+          2
+        ],
+        "bay": [
+          10,
+          11,
+          3,
+          4,
+          5
+        ]
+      },
+      "habitat": [
+        "Surf zone",
+        "Gulf beaches",
+        "Passes",
+        "Sandy bottoms",
+        "Jetties"
+      ],
+      "notes": "Excellent table fare \u2014 considered one of the best-eating fish. Winter surf fishing can be outstanding. Feeds on sand fleas and small crustaceans.",
+      "regulations": {
+        "bag_limit": "No limit",
+        "size_limit": null,
+        "special_rules": null
+      }
+    },
+    {
+      "id": "whiting",
+      "common_name": "Whiting",
+      "alternative_names": [
+        "Gulf Kingfish",
+        "Sea Mullet",
+        "King Whiting"
+      ],
+      "scientific_name": "Menticirrhus littoralis",
+      "category": "inshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "habitat": [
+        "Surf zone",
+        "Sandy beaches",
+        "Coastal waters over sand/mud"
+      ],
+      "notes": "Year-round surf fishing staple. Uses chin barbel to find prey in sand. Excellent eating \u2014 firm, white, mild flesh.",
+      "regulations": {
+        "bag_limit": "No limit",
+        "size_limit": null,
+        "special_rules": null
+      }
+    },
+    {
+      "id": "sand_trout",
+      "common_name": "Sand Trout",
+      "alternative_names": [
+        "Sand Seatrout",
+        "White Trout"
+      ],
+      "scientific_name": "Cynoscion arenarius",
+      "category": "inshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "habitat": [
+        "Bay systems",
+        "Gulf passes",
+        "Sandy bottoms",
+        "Channels"
+      ],
+      "notes": "Good eating but softer flesh than speckled trout. Often found in sandy areas vs. grass flats where specks hold. No bag limit makes them great for fish tacos.",
+      "regulations": {
+        "bag_limit": "No limit",
+        "size_limit": null,
+        "special_rules": null
+      }
+    },
+    {
+      "id": "spanish_mackerel_inshore",
+      "common_name": "Spanish Mackerel",
+      "alternative_names": [
+        "Spanish"
+      ],
+      "scientific_name": "Scomberomorus maculatus",
+      "category": "inshore",
+      "months_present": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "peak_months": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "habitat": [
+        "Nearshore waters",
+        "Jetties",
+        "Passes",
+        "Beachfront",
+        "Surf zone"
+      ],
+      "notes": "Fast, aggressive predators that follow bait schools. Excellent on the grill. Use wire leaders to prevent bite-offs.",
+      "regulations": {
+        "bag_limit": "15 per day",
+        "size_limit": "12 inch minimum (fork length)",
+        "special_rules": null
+      }
+    },
+    {
+      "id": "bluefish",
+      "common_name": "Bluefish",
+      "alternative_names": [
+        "Blue",
+        "Snapper Blue"
+      ],
+      "scientific_name": "Pomatomus saltatrix",
+      "category": "inshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        1,
+        2,
+        9,
+        10,
+        11
+      ],
+      "habitat": [
+        "Inshore waters",
+        "Surf zone",
+        "Jetties",
+        "Piers"
+      ],
+      "notes": "Voracious predator with sharp teeth. More common in cooler months. Good fighter on light tackle. Use wire leaders.",
+      "regulations": {
+        "bag_limit": "10 per day",
+        "size_limit": null,
+        "special_rules": null
+      }
+    },
+    {
+      "id": "hardhead_catfish",
+      "common_name": "Hardhead Catfish",
+      "alternative_names": [
+        "Hardhead"
+      ],
+      "scientific_name": "Ariopsis felis",
+      "category": "inshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [],
+      "habitat": [
+        "Shallow bays",
+        "Estuaries",
+        "Tidal creeks",
+        "Mud/sand bottoms"
+      ],
+      "notes": "Extremely common year-round bycatch. Notorious bait thief. VENOMOUS spines \u2014 handle with extreme care. Not edible.",
+      "regulations": {
+        "bag_limit": "No limit",
+        "size_limit": null,
+        "special_rules": null
+      }
+    },
+    {
+      "id": "red_snapper",
+      "common_name": "Red Snapper",
+      "alternative_names": [
+        "Snapper",
+        "American Red Snapper"
+      ],
+      "scientific_name": "Lutjanus campechanus",
+      "category": "offshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        6,
+        7,
+        8
+      ],
+      "best_months": {
+        "federal_season": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "state_waters": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      "habitat": [
+        "Offshore reefs",
+        "Oil rigs",
+        "Wrecks",
+        "Hard bottom",
+        "60-100+ ft"
+      ],
+      "notes": "Texas' most popular offshore species. Federal season typically opens early June. State waters (inside 9 nautical miles) are open year-round with different limits.",
+      "regulations": {
+        "bag_limit": "2 federal / 4 state waters per day",
+        "size_limit": "16 inch minimum (federal) / 15 inch minimum (state)",
+        "special_rules": "Federal season typically June-November; check current year dates"
+      }
+    },
+    {
+      "id": "mangrove_snapper",
+      "common_name": "Mangrove Snapper",
+      "alternative_names": [
+        "Gray Snapper"
+      ],
+      "scientific_name": "Lutjanus griseus",
+      "category": "offshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "habitat": [
+        "Jetties",
+        "Oil rigs",
+        "Nearshore structure",
+        "60-120 ft"
+      ],
+      "notes": "Excellent eating. Often found around structure. Can be targeted at the jetties in summer.",
+      "regulations": {
+        "bag_limit": "10 per day (within aggregate snapper limit)",
+        "size_limit": "12 inch minimum",
+        "special_rules": "Included in 4-per-person snapper aggregate in federal waters"
+      }
+    },
+    {
+      "id": "king_mackerel",
+      "common_name": "King Mackerel",
+      "alternative_names": [
+        "Kingfish",
+        "King",
+        "Smoker"
+      ],
+      "scientific_name": "Scomberomorus cavalla",
+      "category": "offshore",
+      "months_present": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "peak_months": [
+        6,
+        7,
+        8
+      ],
+      "habitat": [
+        "5-20 miles offshore",
+        "Shrimp boats",
+        "Wrecks",
+        "Reefs",
+        "Beachfront (summer)"
+      ],
+      "notes": "Premier nearshore pelagic. Follows bait schools and shrimp boats in summer. Fast strikes, long runs. Excellent smoked or fresh.",
+      "regulations": {
+        "bag_limit": "2 per day",
+        "size_limit": "27 inch minimum (fork length)",
+        "special_rules": null
+      }
+    },
+    {
+      "id": "cobia",
+      "common_name": "Cobia",
+      "alternative_names": [
+        "Ling",
+        "Lemonfish",
+        "Crab Eater"
+      ],
+      "scientific_name": "Rachycentron canadum",
+      "category": "offshore",
+      "months_present": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "peak_months": [
+        5,
+        6,
+        7
+      ],
+      "habitat": [
+        "Buoys",
+        "Debris",
+        "Oil platforms",
+        "Nearshore waters",
+        "Channels"
+      ],
+      "notes": "Curious fish that often hangs around surface structure. Aggressive eater and powerful fighter. Excellent table fare.",
+      "regulations": {
+        "bag_limit": "2 per day",
+        "size_limit": "40 inch minimum (fork length)",
+        "special_rules": "May not remove from water if over 36\" (release protocol)"
+      }
+    },
+    {
+      "id": "tarpon",
+      "common_name": "Tarpon",
+      "alternative_names": [
+        "Silver King",
+        "Poon"
+      ],
+      "scientific_name": "Megalops atlanticus",
+      "category": "offshore",
+      "months_present": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "peak_months": [
+        7,
+        8
+      ],
+      "habitat": [
+        "Beachfront",
+        "Channels",
+        "15-40 ft",
+        "Jetties",
+        "Passes"
+      ],
+      "notes": "Ultimate sportfish. Acrobatic jumps and long runs. migratory along Texas coast in summer months. Sight-casting along beachfront is premier experience.",
+      "regulations": {
+        "bag_limit": "Catch and release only",
+        "size_limit": null,
+        "special_rules": "Must remain in water if over 40 inches; mandatory catch-and-release in Texas"
+      }
+    },
+    {
+      "id": "shark",
+      "common_name": "Shark",
+      "alternative_names": [
+        "Various species"
+      ],
+      "scientific_name": "Multiple (Carcharhinus, Sphyrna spp.)",
+      "category": "offshore",
+      "months_present": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "peak_months": [
+        6,
+        7,
+        8
+      ],
+      "habitat": [
+        "Offshore waters",
+        "Shrimp boats",
+        "Beachfront",
+        "Passes"
+      ],
+      "notes": "Blacktip, spinner, bull, hammerhead, and others common in summer. Often found around shrimp boat culling. Strong fighters.",
+      "regulations": {
+        "bag_limit": "1 per day (within aggregate)",
+        "size_limit": "64 inch minimum (many species)",
+        "special_rules": "Highly regulated; check TPWD for species-specific rules"
+      }
+    },
+    {
+      "id": "amberjack",
+      "common_name": "Greater Amberjack",
+      "alternative_names": [
+        "Amberjack",
+        "AJ",
+        "Reef Donkey"
+      ],
+      "scientific_name": "Seriola dumerili",
+      "category": "offshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "habitat": [
+        "Oil rigs",
+        "Wrecks",
+        "Deep structure",
+        "Reefs"
+      ],
+      "notes": "Powerful fighters \u2014 nicknamed 'reef donkey.' Often closed seasonally for spawning. Check federal season status.",
+      "regulations": {
+        "bag_limit": "1 per day",
+        "size_limit": "34 inch minimum (fork length) to fork",
+        "special_rules": "May have seasonal closures; check federal regulations"
+      }
+    },
+    {
+      "id": "grouper",
+      "common_name": "Grouper",
+      "alternative_names": [
+        "Red Grouper",
+        "Gag Grouper",
+        "Scamp"
+      ],
+      "scientific_name": "Epinephelus / Mycteroperca spp.",
+      "category": "offshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "habitat": [
+        "Deep structure",
+        "Hard bottom",
+        "80-120+ ft",
+        "Reefs",
+        "Wrecks"
+      ],
+      "notes": "Gag, red, and scamp grouper are all available. Deep-water species requiring longer offshore runs. Excellent eating.",
+      "regulations": {
+        "bag_limit": "4 per person (within grouper aggregate)",
+        "size_limit": "Varies by species",
+        "special_rules": "Grouper aggregate: 4 per person within 4-fish snapper/grouper aggregate"
+      }
+    },
+    {
+      "id": "triggerfish",
+      "common_name": "Gray Triggerfish",
+      "alternative_names": [
+        "Triggerfish"
+      ],
+      "scientific_name": "Balistes capriscus",
+      "category": "offshore",
+      "months_present": [
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "habitat": [
+        "Reefs",
+        "Rigs",
+        "Wrecks",
+        "Hard bottom"
+      ],
+      "notes": "Good eating with unique texture. Closed season in summer months for spawning. Use stout gear \u2014 they pull hard and go to structure.",
+      "regulations": {
+        "bag_limit": "1 per person",
+        "size_limit": "15 inch minimum (fork length)",
+        "special_rules": "Seasonal closure Jun 1 - Jul 31; check current year"
+      }
+    },
+    {
+      "id": "dorado",
+      "common_name": "Dorado",
+      "alternative_names": [
+        "Mahi-Mahi",
+        "Dolphin Fish"
+      ],
+      "scientific_name": "Coryphaena hippurus",
+      "category": "offshore",
+      "months_present": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "peak_months": [
+        6,
+        7,
+        8
+      ],
+      "habitat": [
+        "Weed lines",
+        "Floating debris",
+        "25-40+ miles offshore",
+        "Current rips"
+      ],
+      "notes": "Beautiful, fast-growing fish. Often found around floating debris and weed lines. One of the best-eating fish. Acrobatic on light tackle.",
+      "regulations": {
+        "bag_limit": "10 per day (within 20-fish dorado/cobia aggregate)",
+        "size_limit": "20 inch minimum (fork length)",
+        "special_rules": null
+      }
+    },
+    {
+      "id": "blackfin_tuna",
+      "common_name": "Blackfin Tuna",
+      "alternative_names": [
+        "Blackfin"
+      ],
+      "scientific_name": "Thunnus atlanticus",
+      "category": "offshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "habitat": [
+        "Deep rigs",
+        "300-500 ft",
+        "Oil platforms",
+        "Current edges"
+      ],
+      "notes": "Smallest tuna species in Gulf. Excellent sashimi grade. Winter bite can be outstanding around deep rigs. Fast and powerful for their size.",
+      "regulations": {
+        "bag_limit": "3 per day (within tuna aggregate)",
+        "size_limit": null,
+        "special_rules": "Recreational tuna limits apply"
+      }
+    },
+    {
+      "id": "yellowfin_tuna",
+      "common_name": "Yellowfin Tuna",
+      "alternative_names": [
+        "Yellowfin",
+        "YF Tuna",
+        "Ahi"
+      ],
+      "scientific_name": "Thunnus albacares",
+      "category": "offshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        7,
+        8,
+        9
+      ],
+      "habitat": [
+        "Deep rigs",
+        "1,500+ ft",
+        "60+ miles offshore",
+        "Current edges",
+        "Oil platforms"
+      ],
+      "notes": "Premier offshore gamefish. Requires long-range trips. Summer and fall offer best shots. World-class sashimi. Schools under shrimp boats and around rigs.",
+      "regulations": {
+        "bag_limit": "3 per day (within tuna aggregate)",
+        "size_limit": "27 inch minimum (curved fork)",
+        "special_rules": "Recreational tuna limits apply; HMS permit required in federal waters"
+      }
+    },
+    {
+      "id": "wahoo",
+      "common_name": "Wahoo",
+      "alternative_names": [
+        "Ono",
+        "Hoo"
+      ],
+      "scientific_name": "Acanthocybium solandri",
+      "category": "offshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "habitat": [
+        "100-fathom curve",
+        "60-80 miles offshore",
+        "Current edges",
+        "Reefs"
+      ],
+      "notes": "One of the fastest fish in the ocean. Winter run (Oct-Feb) is legendary along Texas coast. Solitary hunters but multiple hookups possible. Excellent eating.",
+      "regulations": {
+        "bag_limit": "2 per day",
+        "size_limit": null,
+        "special_rules": "Recreational tuna/aggregates may apply"
+      }
+    },
+    {
+      "id": "sailfish",
+      "common_name": "Sailfish",
+      "alternative_names": [
+        "Atlantic Sailfish"
+      ],
+      "scientific_name": "Istiophorus platypterus",
+      "category": "offshore",
+      "months_present": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "peak_months": [
+        7,
+        8
+      ],
+      "habitat": [
+        "30-50+ miles offshore",
+        "Color breaks",
+        "Current lines",
+        "Deep water"
+      ],
+      "notes": "Acrobatic billfish. Rare but present in summer months. Catch-and-release is standard practice. Incredible aerial displays.",
+      "regulations": {
+        "bag_limit": "Catch and release encouraged",
+        "size_limit": null,
+        "special_rules": "Billfish conservation recommended"
+      }
+    },
+    {
+      "id": "tripletail",
+      "common_name": "Tripletail",
+      "alternative_names": [
+        "Buoy Fish",
+        "Blackfish"
+      ],
+      "scientific_name": "Lobotes surinamensis",
+      "category": "offshore",
+      "months_present": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "peak_months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "habitat": [
+        "Buoys",
+        "Crab trap floats",
+        "Debris",
+        "Weed lines",
+        "Channel markers"
+      ],
+      "notes": "Unique-looking fish that floats on its side near surface structure. Excellent table fare. Often overlooked but highly sought after by knowledgeable anglers.",
+      "regulations": {
+        "bag_limit": "3 per day",
+        "size_limit": "18 inch minimum",
+        "special_rules": null
+      }
+    },
+    {
+      "id": "barracuda",
+      "common_name": "Great Barracuda",
+      "alternative_names": [
+        "Cuda",
+        "Barracuda"
+      ],
+      "scientific_name": "Sphyraena barracuda",
+      "category": "offshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "habitat": [
+        "Offshore rigs",
+        "Jetties",
+        "Reefs",
+        "Wrecks"
+      ],
+      "notes": "Ambush predator around structure and rigs. Not commonly targeted but caught incidentally. Not recommended to eat due to ciguatera risk.",
+      "regulations": {
+        "bag_limit": "No limit",
+        "size_limit": null,
+        "special_rules": "Not recommended for consumption"
+      }
+    },
+    {
+      "id": "spadefish",
+      "common_name": "Spadefish",
+      "alternative_names": [
+        "Atlantic Spadefish"
+      ],
+      "scientific_name": "Chaetodipterus faber",
+      "category": "offshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "habitat": [
+        "Nearshore reefs",
+        "Wrecks",
+        "Pilings",
+        "Jetties"
+      ],
+      "notes": "Distinctive disk-shaped fish. Often found in schools around structure. Good eating. Fun on light tackle.",
+      "regulations": {
+        "bag_limit": "No limit",
+        "size_limit": null,
+        "special_rules": null
+      }
+    },
+    {
+      "id": "blue_marlin",
+      "common_name": "Blue Marlin",
+      "alternative_names": [
+        "Marlin"
+      ],
+      "scientific_name": "Makaira nigricans",
+      "category": "offshore",
+      "months_present": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "peak_months": [
+        7,
+        8
+      ],
+      "habitat": [
+        "100+ miles offshore",
+        "Deep water",
+        "Canyons",
+        "Current edges"
+      ],
+      "notes": "Ultimate offshore big-game fish. Extremely rare from Port Aransas. Requires multi-day long-range trip to blue water. Catch-and-release standard.",
+      "regulations": {
+        "bag_limit": "Catch and release only",
+        "size_limit": null,
+        "special_rules": "Blue marlin must be released; cannot remove from water"
+      }
+    },
+    {
+      "id": "bonito",
+      "common_name": "Bonito",
+      "alternative_names": [
+        "Little Tunny",
+        "False Albacore"
+      ],
+      "scientific_name": "Euthynnus alletteratus",
+      "category": "offshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        6,
+        7,
+        8
+      ],
+      "habitat": [
+        "Nearshore",
+        "Offshore structure",
+        "Rigs",
+        "Reefs"
+      ],
+      "notes": "Common around offshore structure. Often mistaken for baby tuna. Edible but not highly regarded. Great sport on light tackle.",
+      "regulations": {
+        "bag_limit": "No limit",
+        "size_limit": null,
+        "special_rules": null
+      }
+    },
+    {
+      "id": "silver_seatrout",
+      "common_name": "Silver Seatrout",
+      "alternative_names": [
+        "Silver Trout"
+      ],
+      "scientific_name": "Cynoscion nothus",
+      "category": "inshore",
+      "months_present": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "habitat": [
+        "Offshore Gulf waters",
+        "Near passes",
+        "Sandy bottoms"
+      ],
+      "notes": "Primarily found in offshore Gulf waters. Shows up near Aransas Bay passes during spring and fall migrations. Similar to sand trout but smaller.",
+      "regulations": {
+        "bag_limit": "No limit",
+        "size_limit": null,
+        "special_rules": null
+      }
+    }
+  ],
+  "monthly_calendar": {
+    "1": {
+      "month": "January",
+      "top_targets": [
+        "black_drum",
+        "sheepshead",
+        "speckled_trout",
+        "redfish",
+        "pompano"
+      ],
+      "notes": "Cool water pushes trout deep. Trophy trout season in skinny water at midday. Black drum and sheepshead excellent around jetty structure. Pompano in surf. Redfish schooled up in back lakes.",
+      "water_temp_range_f": [
+        52,
+        62
+      ],
+      "pattern": "Deep water winter pattern. Slow presentations. Afternoon bite best as water warms."
+    },
+    "2": {
+      "month": "February",
+      "top_targets": [
+        "black_drum",
+        "sheepshead",
+        "speckled_trout",
+        "redfish",
+        "pompano"
+      ],
+      "notes": "Sheepshead spawn peaks \u2014 best month for big sheepies. Black drum excellent. Trophy trout still possible. First signs of spring movement late in month.",
+      "water_temp_range_f": [
+        54,
+        65
+      ],
+      "pattern": "Late winter/early spring transition. Sheepshead spawn. Look for first warm days to trigger trout movement shallow."
+    },
+    "3": {
+      "month": "March",
+      "top_targets": [
+        "redfish",
+        "speckled_trout",
+        "sand_trout",
+        "king_mackerel",
+        "cobia"
+      ],
+      "notes": "Spring break fishing at its best. Trout move shallow to spawn. Redfish active on flats. Cobia and kings begin arriving nearshore. Sand trout peak in bay.",
+      "water_temp_range_f": [
+        60,
+        72
+      ],
+      "pattern": "Spring spawn pattern. Topwater bite improves. Fish move to grass flats as water hits 68\u00b0F+. Early morning shallow water best."
+    },
+    "4": {
+      "month": "April",
+      "top_targets": [
+        "redfish",
+        "speckled_trout",
+        "flounder",
+        "cobia",
+        "pompano"
+      ],
+      "notes": "Trout spawn in full swing \u2014 best shallow-water trout fishing. Redfish tailing on flooded grass. Cobia peak nearshore. Flounder return from Gulf. Pompano in surf.",
+      "water_temp_range_f": [
+        66,
+        76
+      ],
+      "pattern": "Peak spring pattern. Flood tides produce tailing redfish. Trout on grass flats at dawn. Live shrimp under popping cork deadly."
+    },
+    "5": {
+      "month": "May",
+      "top_targets": [
+        "redfish",
+        "speckled_trout",
+        "king_mackerel",
+        "jack_crevalle",
+        "tripletail"
+      ],
+      "notes": "All species active. King mackerel arrive in force. Jack crevalle schools invade bays. Tripletail show up on crab trap lines. Consistent offshore weather.",
+      "water_temp_range_f": [
+        72,
+        82
+      ],
+      "pattern": "Full summer transition. Early morning and late evening best for inshore. Offshore kicks into high gear. Shrimp bait available."
+    },
+    "6": {
+      "month": "June",
+      "top_targets": [
+        "red_snapper",
+        "king_mackerel",
+        "tarpon",
+        "redfish",
+        "speckled_trout"
+      ],
+      "notes": "RED SNAPPER federal season OPENS. Kings peak nearshore. Tarpon arrive along beachfront. Redfish early morning on flats. Trout retreat to deeper water by mid-morning.",
+      "water_temp_range_f": [
+        78,
+        88
+      ],
+      "pattern": "Peak summer. Offshore is primary focus. Inshore fish early/late. Tarpon migration begins along beachfront. Snapper season excitement."
+    },
+    "7": {
+      "month": "July",
+      "top_targets": [
+        "red_snapper",
+        "king_mackerel",
+        "tarpon",
+        "dorado",
+        "speckled_trout"
+      ],
+      "notes": "Peak offshore month. Red snapper, kings, tarpon, mahi all hot. Hottest month \u2014 inshore bite very early morning only. Trout in deep channels and ICW.",
+      "water_temp_range_f": [
+        82,
+        92
+      ],
+      "pattern": "Hottest water of the year. Fish dawn and dusk. Offshore peak conditions. Live bait or slow deep presentations inshore."
+    },
+    "8": {
+      "month": "August",
+      "top_targets": [
+        "red_snapper",
+        "king_mackerel",
+        "tarpon",
+        "amberjack",
+        "redfish"
+      ],
+      "notes": "Last full month of summer patterns. Red snapper still open (check closing date). Kings and tarpon remain strong. Redfish staging for fall spawn. Offshore weather can be unpredictable.",
+      "water_temp_range_f": [
+        82,
+        90
+      ],
+      "pattern": "Late summer. First cool front possible late month signals change. Fish early. Offshore remains excellent if weather allows."
+    },
+    "9": {
+      "month": "September",
+      "top_targets": [
+        "redfish",
+        "speckled_trout",
+        "king_mackerel",
+        "flounder",
+        "jack_crevalle"
+      ],
+      "notes": "BULL REDS arrive at jetties! Fall fishing kickoff. Trout turn aggressive. First cold fronts push bait and predators. Flounder begin staging. Last good month for tarpon.",
+      "water_temp_range_f": [
+        76,
+        86
+      ],
+      "pattern": "Fall transition begins. First norther triggers major bite. Jetties packed with bull reds. Topwater trout bite returns."
+    },
+    "10": {
+      "month": "October",
+      "top_targets": [
+        "redfish",
+        "flounder",
+        "speckled_trout",
+        "spanish_mackerel_inshore",
+        "king_mackerel"
+      ],
+      "notes": "BEST MONTH overall. Bull reds PEAK at jetties. FLOUNDER RUN in full swing. Trout aggressive on topwater. Spanish mackerel blitz nearshore. Cooler water revives all inshore species.",
+      "water_temp_range_f": [
+        68,
+        78
+      ],
+      "pattern": "Peak fall fishing. Flounder gigging excellent. Reds pushing 40+ inches at jetties. Trout feed aggressively before winter. Multiple species overlapping."
+    },
+    "11": {
+      "month": "November",
+      "top_targets": [
+        "speckled_trout",
+        "redfish",
+        "wahoo",
+        "black_drum",
+        "sheepshead"
+      ],
+      "notes": "Trout fishing outstanding. Bull reds taper but still available. Wahoo arrive offshore. FLOUNDER SEASON CLOSES Nov 1 \u2014 reopens Dec 15. Black drum and sheepshead start heating up.",
+      "water_temp_range_f": [
+        62,
+        72
+      ],
+      "pattern": "Late fall transition. Cold fronts more frequent. Fish push deeper or south. Last great month for consistent topwater trout action."
+    },
+    "12": {
+      "month": "December",
+      "top_targets": [
+        "black_drum",
+        "sheepshead",
+        "redfish",
+        "speckled_trout",
+        "red_snapper"
+      ],
+      "notes": "Winter pattern begins. Black drum and sheepshead excellent. State-water red snapper open. FLOUNDER reopens Dec 15. Redfish in tight winter schools. Trophy trout in deep holes.",
+      "water_temp_range_f": [
+        55,
+        65
+      ],
+      "pattern": "Winter inshore focus. Jetty fishing for drums and sheeps. State snapper in near rigs. Slow methodical presentations. Afternoon bite best."
+    }
+  },
+  "environmental_triggers": {
+    "water_temperature": {
+      "below_65f": "Trout move to deep channels and holes. Redfish school in back lakes. Black drum and sheepshead peak around structure.",
+      "65_70f": "Transition zone. First signs of spring movement. Trout may move shallow on warm afternoons.",
+      "68_75f": "Prime spawning window for speckled trout. Best shallow-water grass flat action. Redfish tailing on flood tides.",
+      "75_82f": "Summer pattern established. Early morning shallow bite, then fish move deep. Offshore species at peak.",
+      "above_82f": "Fish stress in heat. Dawn/dusk only for inshore. Offshore pelagics thrive.",
+      "cooling_to_70s": "Fall feeding frenzy begins. All species become aggressive before winter. Best fishing of the year."
+    },
+    "tide_patterns": {
+      "rising_tide": "Pushes bait onto grass flats. Redfish and trout follow. Best for shallow-water fishing.",
+      "falling_tide": "Creates ambush points at drains, guts, and passes. Fish stack at exits waiting for bait.",
+      "high_tide": "Fish spread out. Redfish tail in flooded grass. Access to normally dry areas.",
+      "low_tide": "Fish concentrated in deeper holes and channels. Exposes structure."
+    },
+    "weather_patterns": {
+      "first_fall_cold_front": "Triggers flounder run AND bull redfish movement to jetties. Major feeding event.",
+      "stable_high_pressure": "Tough fishing. Fish lockjaw after front passes.",
+      "approaching_front": "Often excellent bite as barometric pressure drops.",
+      "heavy_rainfall": "Reduces salinity. Pushes saltwater species toward Gulf passes. Can shut off bite in flooded bays.",
+      "shrimp_run": "Late summer/early fall shrimp emigration triggers predator feed. All species key on shrimp."
+    }
+  },
+  "regulations_summary": {
+    "speckled_trout": {
+      "bag_limit": "3 per day",
+      "size_limit": "15-20 inch slot; one over 30\"",
+      "effective_date": "2024 regulations"
+    },
+    "redfish": {
+      "bag_limit": "3 per day",
+      "size_limit": "20-28 inch slot",
+      "notes": "Bull reds over 28\" are catch-and-release"
+    },
+    "flounder": {
+      "bag_limit": "5 per day",
+      "size_limit": "14 inch minimum",
+      "season_closure": "November 1 - December 14",
+      "reopens": "December 15"
+    },
+    "red_snapper_federal": {
+      "bag_limit": "2 per day",
+      "size_limit": "16 inch minimum",
+      "typical_season": "June through November",
+      "notes": "Check current year federal season dates"
+    },
+    "red_snapper_state": {
+      "bag_limit": "4 per day",
+      "size_limit": "15 inch minimum",
+      "season": "Year-round in state waters (inside 9nm)"
+    },
+    "general_notes": [
+      "All recreational anglers fishing in saltwater must have a valid Texas fishing license with saltwater endorsement.",
+      "Check TPWD.gov for current regulations \u2014 rules change frequently.",
+      "Federal waters begin 9 nautical miles from shore in Texas.",
+      "Some offshore species require HMS (Highly Migratory Species) permits in federal waters."
+    ]
+  }
+}
